@@ -1,0 +1,26 @@
+/*  */
+.navbar{
+  
+  
+    padding-top: 1rem;
+ 
+    padding-right: 1rem;
+}
+.onodered{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+}
+.four{
+    background-color:#008060;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.four:hover{
+    cursor: pointer;
+    background-color:#004C3F ;
+}
